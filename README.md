@@ -112,7 +112,7 @@ The model achieved **92% accuracy** in polyp segmentation tasks on the test data
 
 Example segmented image:
 
-!(result.png)
+![Segementation Result](result.png)
 
 ## Contributing
 
