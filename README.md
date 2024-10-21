@@ -112,9 +112,7 @@ The model achieved **92% accuracy** in polyp segmentation tasks on the test data
 
 Example segmented image:
 
-| Input Image                    | Ground Truth Mask            | Predicted Mask            |
-|---------------------------------|------------------------------|---------------------------|
-| ![input](input_image.jpg)       | ![ground_truth](gt_mask.jpg)  | ![predicted](pred_mask.jpg) |
+!(images/polyp_segmentation_example.png)
 
 ## Contributing
 
